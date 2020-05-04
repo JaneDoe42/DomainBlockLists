@@ -16,8 +16,8 @@
 # ||eacash.streamplay.to^
 # ||eontent.streamplay.to^$popup
 # ||openload.co/logpopup/*
-# openload.co
-# streamplay.to
+openload.co
+streamplay.to
 
 # Sites for social media interactions
 # Use browser level blocking for specific full URL's that could be an issue
