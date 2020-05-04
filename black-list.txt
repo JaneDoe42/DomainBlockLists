@@ -2,6 +2,10 @@
 # This list contains some of the domains not currently on other lists that
 # should be blocked. Sites that include tracking, ads, and some possible
 # malware/adware.
+#
+# Note: Those that are listed but commented out have been found in
+# the hosts file  hosts.oisd.nl 
+#
 # It is located at:
 # https://raw.githubusercontent.com/JaneDoe42/DomainBlockLists/master/black-list.txt
 
@@ -12,20 +16,20 @@
 # </local host>
 
 # Set from iPod Disconnect app
-127.0.0.1 ||ads.riversip.com
-127.0.0.1 ||adserver.pandora.com
-127.0.0.1 ||adservice.google.ie
+# 127.0.0.1 ||ads.riversip.com
+# 127.0.0.1 ||adserver.pandora.com
+# 127.0.0.1 ||adservice.google.ie
 127.0.0.1 ||googleadapis.l.google.com
 127.0.0.1 ||graph.facebook.com
-127.0.0.1 ||nv.vi-serve.com
-127.0.0.1 ||photios-raj.com
+# 127.0.0.1 ||nv.vi-serve.com
+# 127.0.0.1 ||photios-raj.com
 127.0.0.1 ||urbanairship.com
 127.0.0.1 ||www-googletagmanager.l.google.com
 
 # Set specifically for Avast specific tracking
 127.0.0.1 ||analytics-dev.ff.avast.com
-127.0.0.1 ||analytics-stage.ff.avast.com
+# 127.0.0.1 ||analytics-stage.ff.avast.com
 
 # Set for any additional sites found to track or be ad related
-127.0.0.1 ||ratexchange.net
-127.0.0.1 ||silkenthreadiness.info
+# 127.0.0.1 ||ratexchange.net
+# 127.0.0.1 ||silkenthreadiness.info
