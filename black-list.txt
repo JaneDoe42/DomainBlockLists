@@ -15,21 +15,27 @@
 ::1 localhost #[IPv6]
 # </local host>
 
-# Set from iPod Disconnect app
-# 127.0.0.1 ||ads.riversip.com
-# 127.0.0.1 ||adserver.pandora.com
-# 127.0.0.1 ||adservice.google.ie
-127.0.0.1 ||googleadapis.l.google.com
-127.0.0.1 ||graph.facebook.com
-# 127.0.0.1 ||nv.vi-serve.com
-# 127.0.0.1 ||photios-raj.com
-127.0.0.1 ||urbanairship.com
-127.0.0.1 ||www-googletagmanager.l.google.com
+# Set from iOS Disconnect app
+# 127.0.0.1 ads.riversip.com
+# 127.0.0.1 adserver.pandora.com
+# 127.0.0.1 adservice.google.ie
+127.0.0.1 fitted-tiger-zkfrk3mkxehlagfdjtvysrzo.herokudns.com
+127.0.0.1 jkfc4wjcmw1in9m35ex8q7q8.com
+127.0.0.1 location.postscript.io
+127.0.0.1 googleadapis.l.google.com
+127.0.0.1 graph.facebook.com
+# 127.0.0.1 nv.vi-serve.com
+# 127.0.0.1 photios-raj.com
+127.0.0.1 upsells.boldapps.net
+127.0.0.1 urbanairship.com
+127.0.0.1 vi-serve-com-1402927709.us-east-2.elb.amazonaws.com
+127.0.0.1 www-google-analytics.l.google.com
+127.0.0.1 www-googletagmanager.l.google.com
 
 # Set specifically for Avast specific tracking
-127.0.0.1 ||analytics-dev.ff.avast.com
-# 127.0.0.1 ||analytics-stage.ff.avast.com
+127.0.0.1 analytics-dev.ff.avast.com
+# 127.0.0.1 analytics-stage.ff.avast.com
 
 # Set for any additional sites found to track or be ad related
-# 127.0.0.1 ||ratexchange.net
-# 127.0.0.1 ||silkenthreadiness.info
+# 127.0.0.1 ratexchange.net
+# 127.0.0.1 silkenthreadiness.info
