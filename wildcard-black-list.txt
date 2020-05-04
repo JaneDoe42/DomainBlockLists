@@ -11,7 +11,7 @@
 # It is located at:
 # https://raw.githubusercontent.com/JaneDoe42/DomainBlockLists/master/wildcard-black-list.txt
 
-# Set from iPod Disconnect app
+# Set from iOS Disconnect app
 ad.gt
 adexchanger.com
 dauid-iep.com
