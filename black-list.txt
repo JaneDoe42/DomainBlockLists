@@ -1,0 +1,31 @@
+# Title: Personal Domain level black-list
+# This list contains some of the domains not currently on other lists that
+# should be blocked. Sites that include tracking, ads, and some possible
+# malware/adware.
+# It is located at:
+# 
+
+# <local host>
+127.0.0.1 localhost
+
+::1 localhost #[IPv6]
+# </local host>
+
+# Set from iPod Disconnect app
+127.0.0.1 ||ads.riversip.com
+127.0.0.1 ||adserver.pandora.com
+127.0.0.1 ||adservice.google.ie
+127.0.0.1 ||googleadapis.l.google.com
+127.0.0.1 ||graph.facebook.com
+127.0.0.1 ||nv.vi-serve.com
+127.0.0.1 ||photios-raj.com
+127.0.0.1 ||urbanairship.com
+127.0.0.1 ||www-googletagmanager.l.google.com
+
+# Set specifically for Avast specific tracking
+127.0.0.1 ||analytics-dev.ff.avast.com
+127.0.0.1 ||analytics-stage.ff.avast.com
+
+# Set for any additional sites found to track or be ad related
+127.0.0.1 ||ratexchange.net
+127.0.0.1 ||silkenthreadiness.info
