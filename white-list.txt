@@ -3,35 +3,12 @@
 # assuming you have ad filters enabled for sites, as some sites 
 # could contain questionable ads/malware, but also valid content
 # See specifics for links below.
-
+#
+# Note: Those that are listed but commented out are not found in
+# the hosts file  hosts.oisd.nl 
+#
 # It is located at:
 # https://raw.githubusercontent.com/JaneDoe42/DomainBlockLists/master/white-list.txt
-
-
-# Whitelisted for smallnetbuilder.com
-# This is the site that supports the Asus comunity with 
-# custom firmware and related modifications.
-aax-eu.amazon-adsystem.com
-aax-us-east.amazon-adsystem.com
-ad2.netshelter.net
-assets.omidoo.com
-flashtalking.com
-fls-na.amazon-adsystem.com
-images-na.ssl-images-amazon.com
-ir-na.amazon-adsystem.com
-ir-uk.amazon-adsystem.com
-pagead2.googlesyndication.com
-servedby.flashtalking.com
-tgdaily.com
-tgdaily.net
-vma.tgdaily.com
-vma.tgdaily.net
-wms-eu.amazon-adsystem.com
-wms-na.amazon-adsystem.com
-wms-na.assoc-amazon.com
-ws-eu.amazon-adsystem.com
-ws-na.amazon-adsystem.com
-z-na.amazon-adsystem.com
 
 # Sites for file sharing 
 # Use browser level blocking for specific full URL's that could be an issue
@@ -39,10 +16,10 @@ z-na.amazon-adsystem.com
 # ||eacash.streamplay.to^
 # ||eontent.streamplay.to^$popup
 # ||openload.co/logpopup/*
-openload.co
-streamplay.to
+# openload.co
+# streamplay.to
 
 # Sites for social media interactions
 # Use browser level blocking for specific full URL's that could be an issue
-evite.com
-www.evite.com
+# evite.com
+# www.evite.com
