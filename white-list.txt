@@ -5,7 +5,7 @@
 # See specifics for links below.
 
 # It is located at:
-# 
+# https://raw.githubusercontent.com/JaneDoe42/DomainBlockLists/master/white-list.txt
 
 
 # Whitelisted for smallnetbuilder.com
