@@ -9,7 +9,7 @@
 #   ad.gt -> will block
 #   ad.gt, www.ad.gt, more.ad.gt, more.stuff.at.ad.gt, etc.
 # It is located at:
-# 
+# https://raw.githubusercontent.com/JaneDoe42/DomainBlockLists/master/wildcard-black-list.txt
 
 # Set from iPod Disconnect app
 ad.gt
