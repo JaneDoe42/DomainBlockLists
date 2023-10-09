@@ -3,6 +3,8 @@
 # should be blocked. Sites that include tracking, ads, and some possible
 # malware/adware.
 #
+# It is located at:
+# https://raw.githubusercontent.com/JaneDoe42/DomainBlockLists/master/black-list.txt
 
 # <local host>
 127.0.0.1 localhost
