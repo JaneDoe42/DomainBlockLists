@@ -176,3 +176,29 @@
 # Set for any additional sites found to track or be ad related
 127.0.0.1 ratexchange.net
 127.0.0.1 silkenthreadiness.info
+
+# Spotify Specific items for blocking videos
+127.0.0.1 pl.scdn.co
+127.0.0.1 i.scdn.co
+127.0.0.1 mosaic.scdn.co
+127.0.0.1 o.scdn.co
+127.0.0.1 canvaz.scdn.co
+127.0.0.1 eip-ntt.video-ak.cdn.spotify.com.akahost.net
+127.0.0.1 image-cdn-ak.spotifycdn.com
+127.0.0.1 image-scdn.cdn-gslb.spotify.com
+127.0.0.1 seed-mix-image.spotifycdn.com
+127.0.0.1 dailymix-images.scdn.co
+127.0.0.1 newjams-images.scdn.co
+127.0.0.1 pickasso.spotifycdn.com
+127.0.0.1 thisis-images.spotifycdn.com
+127.0.0.1 video-akpcw-cdn-spotify-com.akamaized.net
+127.0.0.1 video-ak-cdn-spotify-com.akamaized.net
+127.0.0.1 video-ak.cdn.spotify.com.splitter-eip.akadns.net
+127.0.0.1 video-fa.scdn.co
+127.0.0.1 video-fa.cdn.spotify.com
+127.0.0.1 video-fa-b.cdn.spotify.com
+127.0.0.1 video4-ak.spotify.com
+127.0.0.1 video-ak.cdn.spotify.com
+127.0.0.1 video-akpcw.spotifycdn.com
+127.0.0.1 video-akpcw.spotifycdn.com.edgesuite.net
+127.0.0.1 video-akpcw-cdn-spotify-com.akamaized.net
